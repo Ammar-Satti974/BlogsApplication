@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|d:\\onedrive - perseus management group inc\\desktop\\blogapp\\blog-backend\\blog-backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|solutionrelative:blog-backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|d:\\onedrive - perseus management group inc\\desktop\\blogapp\\blog-backend\\blog-backend\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|solutionrelative:blog-backend\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|d:\\onedrive - perseus management group inc\\desktop\\blogapp\\blog-backend\\blog-backend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|solutionrelative:blog-backend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|d:\\onedrive - perseus management group inc\\desktop\\blogapp\\blog-backend\\blog-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|solutionrelative:blog-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|d:\\onedrive - perseus management group inc\\desktop\\blogapp\\blog-backend\\blog-backend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|solutionrelative:blog-backend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|d:\\onedrive - perseus management group inc\\desktop\\blogapp\\blog-backend\\blog-backend\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|solutionrelative:blog-backend\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|d:\\onedrive - perseus management group inc\\desktop\\blogapp\\blog-backend\\blog-backend\\dto\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|solutionrelative:blog-backend\\dto\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|d:\\onedrive - perseus management group inc\\desktop\\blogapp\\blog-backend\\blog-backend\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|solutionrelative:blog-backend\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|d:\\onedrive - perseus management group inc\\desktop\\blogapp\\blog-backend\\blog-backend\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|solutionrelative:blog-backend\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|d:\\onedrive - perseus management group inc\\desktop\\blogapp\\blog-backend\\blog-backend\\data\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|solutionrelative:blog-backend\\data\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|d:\\onedrive - perseus management group inc\\desktop\\blogapp\\blog-backend\\blog-backend\\data\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|solutionrelative:blog-backend\\data\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|d:\\onedrive - perseus management group inc\\desktop\\blogapp\\blog-backend\\blog-backend\\dto\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|solutionrelative:blog-backend\\dto\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|d:\\onedrive - perseus management group inc\\desktop\\blogapp\\blog-backend\\blog-backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|solutionrelative:blog-backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|d:\\onedrive - perseus management group inc\\desktop\\blogapp\\blog-backend\\blog-backend\\migrations\\20241105070054_user-modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|solutionrelative:blog-backend\\migrations\\20241105070054_user-modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|d:\\onedrive - perseus management group inc\\desktop\\blogapp\\blog-backend\\blog-backend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|solutionrelative:blog-backend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|d:\\onedrive - perseus management group inc\\desktop\\blogapp\\blog-backend\\blog-backend\\migrations\\20241104085448_user-table-added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|solutionrelative:blog-backend\\migrations\\20241104085448_user-table-added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|d:\\onedrive - perseus management group inc\\desktop\\blogapp\\blog-backend\\blog-backend\\blog-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|solutionrelative:blog-backend\\blog-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|d:\\onedrive - perseus management group inc\\desktop\\blogapp\\blog-backend\\blog-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|solutionrelative:blog-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|d:\\onedrive - perseus management group inc\\desktop\\blogapp\\blog-backend\\blog-backend\\migrations\\20241030113249_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|solutionrelative:blog-backend\\migrations\\20241030113249_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|d:\\onedrive - perseus management group inc\\desktop\\blogapp\\blog-backend\\blog-backend\\migrations\\20241105085953_user-modi user table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67474307-79BD-4949-945C-18BEB56F6F7A}|blog-backend\\blog-backend.csproj|solutionrelative:blog-backend\\migrations\\20241105085953_user-modi user table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "blog-backend\\Models\\User.cs",
+              "ToolTip": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Models\\User.cs",
+              "RelativeToolTip": "blog-backend\\Models\\User.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:50:55.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Data\\IRepo.cs",
+              "RelativeDocumentMoniker": "blog-backend\\Data\\IRepo.cs",
+              "ToolTip": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Data\\IRepo.cs",
+              "RelativeToolTip": "blog-backend\\Data\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:36:46.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Data\\Repo.cs",
+              "RelativeDocumentMoniker": "blog-backend\\Data\\Repo.cs",
+              "ToolTip": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Data\\Repo.cs",
+              "RelativeToolTip": "blog-backend\\Data\\Repo.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:42:00.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Program.cs",
+              "RelativeDocumentMoniker": "blog-backend\\Program.cs",
+              "ToolTip": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Program.cs",
+              "RelativeToolTip": "blog-backend\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:14:29.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "blog-backend\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "blog-backend\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:59:46.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthDto.cs",
+              "DocumentMoniker": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\DTO\\AuthDto.cs",
+              "RelativeDocumentMoniker": "blog-backend\\DTO\\AuthDto.cs",
+              "ToolTip": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\DTO\\AuthDto.cs",
+              "RelativeToolTip": "blog-backend\\DTO\\AuthDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:01:08.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "blog-backend\\Controllers\\BlogController.cs",
+              "ToolTip": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "blog-backend\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:22:36.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "blog-backend\\Models\\Category.cs",
+              "ToolTip": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Models\\Category.cs",
+              "RelativeToolTip": "blog-backend\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:27:21.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "blog-backend\\Models\\Blog.cs",
+              "ToolTip": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Models\\Blog.cs",
+              "RelativeToolTip": "blog-backend\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:20:58.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "blog-backend\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "blog-backend\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:09:44.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "blog-backend\\Controllers\\RegisterController.cs",
+              "ToolTip": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "blog-backend\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:04:06.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241105085953_user-modi user table.cs",
+              "DocumentMoniker": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Migrations\\20241105085953_user-modi user table.cs",
+              "RelativeDocumentMoniker": "blog-backend\\Migrations\\20241105085953_user-modi user table.cs",
+              "ToolTip": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Migrations\\20241105085953_user-modi user table.cs",
+              "RelativeToolTip": "blog-backend\\Migrations\\20241105085953_user-modi user table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:59:53.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BlogDto.cs",
+              "DocumentMoniker": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\DTO\\BlogDto.cs",
+              "RelativeDocumentMoniker": "blog-backend\\DTO\\BlogDto.cs",
+              "ToolTip": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\DTO\\BlogDto.cs",
+              "RelativeToolTip": "blog-backend\\DTO\\BlogDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:53:02.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\DTO\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "blog-backend\\DTO\\RegisterDto.cs",
+              "ToolTip": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\DTO\\RegisterDto.cs",
+              "RelativeToolTip": "blog-backend\\DTO\\RegisterDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:08:39.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "blog-backend\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "blog-backend\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:11:21.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241105070054_user-modify.cs",
+              "DocumentMoniker": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Migrations\\20241105070054_user-modify.cs",
+              "RelativeDocumentMoniker": "blog-backend\\Migrations\\20241105070054_user-modify.cs",
+              "ToolTip": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Migrations\\20241105070054_user-modify.cs",
+              "RelativeToolTip": "blog-backend\\Migrations\\20241105070054_user-modify.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:00:55.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241030113249_initial.cs",
+              "DocumentMoniker": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Migrations\\20241030113249_initial.cs",
+              "RelativeDocumentMoniker": "blog-backend\\Migrations\\20241030113249_initial.cs",
+              "ToolTip": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Migrations\\20241030113249_initial.cs",
+              "RelativeToolTip": "blog-backend\\Migrations\\20241030113249_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:32:49.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241104085448_user-table-added.cs",
+              "DocumentMoniker": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Migrations\\20241104085448_user-table-added.cs",
+              "RelativeDocumentMoniker": "blog-backend\\Migrations\\20241104085448_user-table-added.cs",
+              "ToolTip": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\Migrations\\20241104085448_user-table-added.cs",
+              "RelativeToolTip": "blog-backend\\Migrations\\20241104085448_user-table-added.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:54:48.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\appsettings.json",
+              "RelativeDocumentMoniker": "blog-backend\\appsettings.json",
+              "ToolTip": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\appsettings.json",
+              "RelativeToolTip": "blog-backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T11:14:42.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "blog-backend.csproj",
+              "DocumentMoniker": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\blog-backend.csproj",
+              "RelativeDocumentMoniker": "blog-backend\\blog-backend.csproj",
+              "ToolTip": "D:\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\Desktop\\BlogApp\\blog-backend\\blog-backend\\blog-backend.csproj",
+              "RelativeToolTip": "blog-backend\\blog-backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T11:03:58.008Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
