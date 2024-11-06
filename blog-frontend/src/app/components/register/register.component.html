@@ -1,0 +1,27 @@
+<div class="flex w-full justify-center items-center h-full">
+    <mat-card appearance="outlined" class="!w-4/12">
+        <form class="flex flex-col gap-4 p-20">
+            <h3>Register</h3>
+            <mat-form-field class="w-full">
+                <mat-label>Username</mat-label>
+                <input matInput type="text" name="userName" [(ngModel)]="userName" required />
+            </mat-form-field>
+            <mat-form-field class="w-full">
+                <mat-label>Email</mat-label>
+                <input matInput type="email" name="email" [(ngModel)]="email" required />
+            </mat-form-field>
+            <mat-form-field class="w-full">
+                <mat-label>Password</mat-label>
+                <input matInput type="password" name="password" [(ngModel)]="password" required />
+            </mat-form-field>
+            <mat-form-field class="w-full">
+                <mat-label>Confirm Password</mat-label>
+                <input matInput type="password" name="confirmPassword" [(ngModel)]="confirmPassword" required />
+            </mat-form-field>
+            <button mat-flat-button color="primary" class="w-full" (click)="register()">
+                Register
+            </button>
+        </form>
+    </mat-card>
+</div>
+

@@ -1,0 +1,37 @@
+
+// @media (max-width: 768px) {
+//     .navbar { font-size: 14px; }
+//     .sidebar { display: none; }
+//   }
+  
+
+// @tailwind base;
+// @tailwind components;
+// @tailwind utilities;
+
+// html, body { height: 100%; }
+// body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+/* src/styles.css or src/styles.scss */
+
+/* Include Tailwind directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles and media queries */
+html, body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    font-size: 14px;
+  }
+  .sidebar {
+    display: none;
+  }
+}

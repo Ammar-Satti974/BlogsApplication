@@ -1,0 +1,11 @@
+.text-highlight {
+    color: white; /* Text color */
+    background-color: #007bff; /* Background color */
+    padding: 4px 8px; /* Add some padding */
+    border-radius: 4px; /* Rounded corners */
+    text-decoration: none; /* Remove underline */
+}
+
+.text-highlight:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+}

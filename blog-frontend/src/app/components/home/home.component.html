@@ -1,0 +1,17 @@
+<div class="flex flex-col justify-center items-center px-20 h-80">
+    <h1 class="text-3xl font-bold">Welcome to Blogs</h1>
+    <p class="w-6/12">
+        Explore a world of insights, stories, and expertise across a variety of topics.
+        Here, you'll find articles that are thoughtfully crafted to inspire, inform,
+        and ignite curiosity. Whether you're here to learn something new, find a solution, or just unwind,
+        there’s a post for everyone. Dive in and join our community of readers and thinkers. Happy reading!
+    </p>
+</div>
+<div class="flex flex-col items-center px-20 mb-10">
+    <h2 class="text-xl font-bold">Featured blogs</h2>
+    <div class="flex flex-wrap gap-4">
+        <div class="w-3/12" *ngFor="let blog of featuredBlog | slice:0:3">
+            <app-blog-card [blog]="blog"></app-blog-card>
+        </div>
+    </div>
+</div>
